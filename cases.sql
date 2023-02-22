@@ -1,3 +1,4 @@
+
 -- Challenge 1
 SELECT 
     DATE_FORMAT(MIN(created_at), "%M %D %Y") as earliest_date 
