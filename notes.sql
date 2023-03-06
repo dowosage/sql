@@ -1,3 +1,4 @@
+
 CREATE TABLE dim_author (
 	author varchar(256) NOT NULL
 )
