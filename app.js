@@ -1,3 +1,4 @@
+
 var mysql = require('mysql');
 var faker = require('faker');
 
